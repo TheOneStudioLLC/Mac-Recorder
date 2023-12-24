@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Your App Changelog</title>
+        <link>https://macutilities.org/mac-recorder/appcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <item>
+            <title>Version 2.0.0</title>
+            <sparkle:releaseNotesLink>https://macutilities.org/mac-recorder/release-notes-1.0.0.html</sparkle:releaseNotesLink>
+            <pubDate>Tue, 20 Jul 2021 15:30:00 +0000</pubDate>
+            <enclosure url="https://macutilities.org/downloads/MacRecorder.dmg"
+                       sparkle:version="2.0.0"
+                       sparkle:shortVersionString="2.0.0"
+                       type="application/octet-stream" />
+        </item>
+        <!-- More version items can be added here -->
+    </channel>
+</rss>
