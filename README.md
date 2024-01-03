@@ -16,21 +16,15 @@ Welcome to **Mac-Recorder**, a part of the MacUtilities suite - the all-in-one r
 - **Selective Area Recording**: Focus on a specific area or window.
 - **Multi-Monitor Support**: Seamlessly record across multiple screens.
 
-![Full-Screen Capture](assets/screen-recording.jpg)
-
 #### 📷 **Camera Recording**
 - **High-Resolution Recording**: Capture crisp, clear video.
 - **Camera Overlay**: Add a camera feed overlay.
 - **Green Screen Effect**: Utilize chroma keying for backgrounds.
 
-![Camera Recording](assets/camera-recording.jpg)
-
 #### 🎙️ **Audio Recording**
 - **High-Quality Voice Recording**: Capture your voice with clarity.
 - **System Audio Capture**: Record internal audio from your MacOS.
 - **Audio Mixing**: Blend voice and system audio.
-
-![Audio Recording](assets/audio-recording.jpg)
 
 ---
 
