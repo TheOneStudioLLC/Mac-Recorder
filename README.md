@@ -1,13 +1,22 @@
 # Mac-Recorder
-## The Comprehensive Recording Suite for MacOS
+## The Comprehensive Recording Solution for MacOS
 
 <div align="center">
-    <img src="assets/MacRecorder.svg" alt="Mac-Recorder Logo" width="200" height="200"/>
+    <img src="assets/MacRecorderIcon.png" alt="Mac-Recorder Logo" width="200" height="200"/>
 </div>
 
 Welcome to **Mac-Recorder**, a part of the MacUtilities suite - the all-in-one recording solution engineered for MacOS. From professional-grade audio-visual capture to advanced settings for content creators, Mac-Recorder, along with its companion utilities like brightness control, fan boost, and Mac cleaner, provides unmatched versatility and quality.
 
----
+![T](assets/countdown.gif)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+-
+
+### **Explore More on Our [Official MacUtilities Website](https://macutilities.org)**
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+-
 
 ### 🌟 **Key Features of Mac-Recorder:**
 
@@ -58,35 +67,43 @@ Welcome to **Mac-Recorder**, a part of the MacUtilities suite - the all-in-one r
 
 ---
 
-### 📦 **Installation Options for Mac-Recorder:**
+### 📦 **Installation Options for Mac Recorder:**
 
-Mac-Recorder can be downloaded as a standalone application or as part of the comprehensive MacUtilities suite, which includes tools for brightness control, fan boosting, and system cleaning.
+Mac Recorder can be downloaded as a standalone application or as part of the comprehensive MacUtilities suite, which includes tools for system cleaning, fan boosting, and much more.
 
 - **Install via Homebrew**:
-  - For Mac-Recorder only: `brew install --cask mac-recorder`
-  - For the full MacUtilities suite: `brew install --cask mac-utilities`
-- **Download Mac-Recorder**: [Download Link](#download-link)
+  - For Brightness Boost Only: `brew install --cask mac-recorder`
+  - For the Full Mac Utilities Suite: `brew install --cask mac-utilities`
+
+
+- **Download Via Direct Link**
+  - Mac Recorder Only - [Download](https://github.com/TheOneStudioLLC/Mac-Recorder/releases/download/1.0/mac-recorder.dmg)
+  - Full Mac Utilities Suite - [Download](https://github.com/TheOneStudioLLC/Mac-Utilities/releases/download/1.0/mac-utilities.dmg)
+
+
+- **Download Via App Store** (Limited Version)
+  - Brightness Boost Only - _Currently Unavailable_
+  - Full Mac Utilities Suite - _Currently Unavailable_
 
 ---
 
 ### 🐞 **Bug Reporting and Feature Requests:**
 
-- **Report Bugs**: Help us improve by reporting issues. [Report a Bug](#bug-report-link)
-- **Request Features**: Share your ideas for new features. [Request a Feature](#feature-request-link)
+- **Report Bugs**: Help us improve by reporting issues. [Report a Bug](https://macutilities.org/report-bugs)
+- **Request Features**: Share your ideas for new features. [Request a Feature](https://macutilities.org/request-feature)
 
 ---
 
 ### 💬 **Community and Support:**
 
-- **User Forum**: Engage with other users. [Visit Forum](#user-forum-link)
-- **FAQs**: Get answers to common questions. [Read FAQs](#faqs-link)
-- **Customer Support**: Contact us for assistance. [Contact Support](#contact-support-link)
+- **FAQs**: Get answers to common questions. [Read FAQs](https://macutilities.org/faq)
+- **Customer Support**: Contact us for assistance. [Contact Support](https://macutilities.org/support)
 
 ---
 
 ### 🗓️ **Release History and Updates:**
 
-- Explore our development journey. [View Release History](#release-history-link)
+- Explore our development journey. [View Release History](https://github.com/TheOneStudioLLC/Mac-Recorder/releases)
 
 ---
 
