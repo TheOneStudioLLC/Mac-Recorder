@@ -7,7 +7,7 @@
 
 Welcome to **Mac-Recorder**, a part of the MacUtilities suite - the all-in-one recording solution engineered for MacOS. From professional-grade audio-visual capture to advanced settings for content creators, Mac-Recorder, along with its companion utilities like brightness control, fan boost, and Mac cleaner, provides unmatched versatility and quality.
 
-![T](assets/countdown.gif)
+![T](assets/marketing_02.gif)
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
