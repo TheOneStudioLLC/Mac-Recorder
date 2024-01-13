@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-<channel>
-    <title>MacNewFile</title>
-    <item>
-        <title>1.0</title>
-        <pubDate>Wed, 03 Jan 2024 12:11:31 -0800</pubDate>
-        <sparkle:version>1</sparkle:version>
-        <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-        <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-        <enclosure url="https://github.com/TheOneStudioLLC/Mac-Recorder/releases/download/1.0.0/mac-recorder.dmg" length="2565331" type="application/octet-stream"/>
-    </item>
-</channel>
+    <channel>
+        <title>Mac Recorder</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sat, 13 Jan 2024 12:32:18 -0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TheOneStudioLLC/Mac-Recorder/releases/download/1.1/Mac.Recorder.dmg" length="17557722" type="application/octet-stream" sparkle:edSignature="MHMbcaP3E+EO2Mq2wxZdBk+vpvFm2QdI1fwtuvbBIcr16HcBBblijDNfbI2KrrJ0KS2vki4L1se+I0EvYpvnBw=="/>
+        </item>
+    </channel>
 </rss>
